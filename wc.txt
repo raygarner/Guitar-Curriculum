@@ -1,0 +1,29 @@
+File: article.tex
+Encoding: ascii
+Words in text: 89
+Words in headers: 43
+Words outside text (captions, etc.): 0
+Number of headers: 27
+Number of floats/tables/figures: 0
+Number of math inlines: 0
+Number of math displayed: 0
+Subcounts:
+  text+headers+captions (#headers/#floats/#inlines/#displayed)
+  0+2+0 (1/0/0/0) _top_
+  0+1+0 (1/0/0/0) Section: Introduction
+  10+6+0 (2/0/0/0) Subsection: Learning to play a musical instrument
+  0+5+0 (2/0/0/0) Subsection: The scope of this document
+  0+3+0 (2/0/0/0) Section: Manipulating the strings
+  14+2+0 (2/0/0/0) Subsection: Flat picking
+  20+1+0 (2/0/0/0) Subsection: Fingerstyle
+  6+2+0 (2/0/0/0) Subsection: Hybrid picking
+  4+1+0 (2/0/0/0) Subsection: Legato
+  9+1+0 (2/0/0/0) Subsection: Harmonics
+  11+1+0 (2/0/0/0) Subsection: Vibrato
+  15+2+0 (2/0/0/0) Subsection: Pitch Bends
+  0+10+0 (1/0/0/0) Section: Using the major scale to make music using a guitar
+  0+3+0 (1/0/0/0) Subsection: Single note melodies
+  0+1+0 (1/0/0/0) Subsection: Chords
+  0+2+0 (2/0/0/0) Subsection: Chord melodies
+
+0 src/empty

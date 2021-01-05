@@ -5,11 +5,11 @@ all: build
 
 build: clean wc
 	pdflatex $(DOC)
-	biber $(NAME)
+	#biber $(NAME)
 	pdflatex $(DOC)
-	makeglossaries $(NAME)
-	pdflatex $(DOC)
-	pdflatex $(DOC)
+	#makeglossaries $(NAME)
+	#pdflatex $(DOC)
+	#pdflatex $(DOC)
 	make clean
 
 open: build
